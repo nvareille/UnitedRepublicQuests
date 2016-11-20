@@ -47,5 +47,7 @@ The Rewards (There are rewards !!!!! Yeah :D):
 - Feedbacks from the whole team
 
 I hope you are hyped by our first Quest ! Please give your feedbacks about it !
+
 Good luck to all of you :D !
+
 *8bits Paw Print*
