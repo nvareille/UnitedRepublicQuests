@@ -1,7 +1,9 @@
 # RPG Maker Tutorial:
 
 One of the best RPG Maker you can use if you are beginner would be the RPG Maker 2003
+
 Why ? Because it is free, and it is 16bits like <3 (Also this is with this one I started my game development career :3)
+
 Please find a tutorial and a download link under :)
 
 The software can be downloaded [here](https://2drpg.com/2003.php) (The link is at the bottom of the page)

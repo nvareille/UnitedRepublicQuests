@@ -2,9 +2,13 @@ Skrom's Little Helpers (First edition):
 
 Introduction:
 	
-	"Skrom is a bit lost these times, all the game are now in 64bits and works with powerful GPU. It is really hard for him to make new friends and live in a quiet place.
-However, He found an awesome software ! RPG Maker ! And thanks to this, we can create a lot of friends and a universes for him !
-Will you help this poor 8bits Dragon finding a place to live ?"
+	"Skrom is a bit lost these times, all the game are now in 64bits and works with powerful GPU."
+	
+	"It is really hard for him to make new friends and live in a quiet place."
+	
+	"However, He found an awesome software ! RPG Maker ! And thanks to this, we can create a lot of friends and a universes for him !"
+	
+	"Will you help this poor 8bits Dragon finding a place to live ?"
 
 Explanations:
 
