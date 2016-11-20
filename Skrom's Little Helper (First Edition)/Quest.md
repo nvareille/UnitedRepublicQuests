@@ -21,7 +21,7 @@ Here are the goal of the contest:
 - Fun of course !
 
 Here are the rules:
-- The RPG Maker version is up to you ! [I never used RPG Maker before ! What RPG Maker should I choose ? Where can I have it ?](https://github.com/nvareille/UnitedRepublicQuests/blob/master/Skrom's%20Little%20Helper%20(First%20Edition)/RPGMaker.txt)
+- The RPG Maker version is up to you ! [I never used RPG Maker before ! What RPG Maker should I choose ? Where can I have it ?](https://github.com/nvareille/UnitedRepublicQuests/blob/master/Skrom's%20Little%20Helper%20(First%20Edition)/RPGMaker.md)
 - You can team up with people or make the game alone, your preference
 - You may only use assets the are given with the engine (This way, everyone have their chances, no cool music Sorry Seledrex and Amyte, nor scripting ;.=.;)
 - No bad stuff about members of the channel (If you want to joke about someone, please ask the Dragon / Gryphon / Girafe / Wolf first)
