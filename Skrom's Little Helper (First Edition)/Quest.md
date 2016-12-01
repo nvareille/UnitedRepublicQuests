@@ -42,6 +42,7 @@ Here are my advices:
 The Rewards (There are rewards !!!!! Yeah :D):
 - Everyone participating will earn the Role "Skrom's Little Helper (First Edition)"
 - Every Game will win a title proper to the game it made
+- Christmas themed art from our awesome artist Semura !
 - Assets on Unity made by Skrom ! And Game creation courses :p
 - The game that for us made the difference will receive the "Skrom's World Creator (First Edition)"
 - Feedbacks from the whole team
