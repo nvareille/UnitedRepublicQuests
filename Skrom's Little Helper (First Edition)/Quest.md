@@ -30,7 +30,7 @@ Here are the rules:
 - You may only use assets the are given with the engine AND assets that are on the web (You have to keep the source's link, no asset creation please to let an equal chance for everyone)
 - No bad stuff about members of the channel (If you want to joke about someone, please ask the Dragon / Gryphon / Girafe / Wolf first)
 - It have to include at least 1 of our member in the story (That can of course be you !) 
-- The Admins and Mods and myself will choose my new place to live :3 (Jury)
+- Every member that didn't submit something can choose my new place to live :3 (Jury)
 
 Here are my advices:
 - It is easier to create a Short awesome game than a long long long (and without content) game
@@ -45,7 +45,7 @@ The Rewards (There are rewards !!!!! Yeah :D):
 - Christmas themed art from our awesome artist Semura !
 - Assets on Unity made by Skrom ! And Game creation courses :p
 - The game that for us made the difference will receive the "Skrom's World Creator (First Edition)"
-- Feedbacks from the whole team
+- Feedbacks from the whole Jury
 
 I hope you are hyped by our first Quest ! Please give your feedbacks about it !
 
